@@ -19,6 +19,3 @@ npm run build      # type-check and production build
 - `src/data.ts`: typed content (languages, courses, plans, FAQ)
 - `src/components/`: one component per section
 - `src/hooks/useTheme.ts`: theme state with system preference fallback
-
-## Notes
-Concept demo, not a real business. Built with AI assistance (Claude) and reviewed by the author.
